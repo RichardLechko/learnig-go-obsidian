@@ -6,7 +6,6 @@
       {
         "id": "d6fdb775595fd438",
         "type": "tabs",
-        "dimension": 55.01269035532995,
         "children": [
           {
             "id": "1b0bdda62c7738f3",
@@ -14,61 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book Notes/2.4.md",
+                "file": "Book Notes/2.4  Assignments.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2.4"
-            },
-            "group": "739e9b16f8e47c57"
-          }
-        ]
-      },
-      {
-        "id": "9b70582dffc3d908",
-        "type": "tabs",
-        "dimension": 44.98730964467005,
-        "children": [
+              "title": "2.4  Assignments"
+            }
+          },
           {
-            "id": "cb57961b1c7e62e1",
+            "id": "d03018dfece93402",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "Book Notes/2.4.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
+                "file": "Book Notes/3.0 Basic Data Types.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of 2.4"
-            },
-            "group": "739e9b16f8e47c57"
+              "icon": "lucide-file",
+              "title": "3.0 Basic Data Types"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,10 +184,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b0bdda62c7738f3",
+  "active": "d03018dfece93402",
   "lastOpenFiles": [
+    "Book Notes/2.7 Scope.md",
+    "Book Notes/3.0 Basic Data Types.md",
+    "Book Notes/2.6 Packages and Files.md",
+    "Code Examples/Dup v3.md",
+    "Code Examples/Dup v2.md",
+    "Code Examples/Dup v1.md",
+    "Book Notes/1.6 Fetching URLs Concurrently.md",
+    "Book Notes/1.7 Web Server.md",
+    "Book Notes/2.5 Type Declarations.md",
+    "Book Notes/2.4  Assignments.md",
     "Book Notes/2.3 Variables.md",
-    "Book Notes/2.4.md",
     "Concepts/For Loops.md",
     "Book Notes/2.2 Declarations.md",
     "Book Notes/2.1 Names.md",
@@ -235,16 +212,7 @@
     "Concepts/Variable Declarations.md",
     "Concepts/Exported vs Unexported.md",
     "Concepts/Channels.md",
-    "Concepts/Constants.md",
-    "Book Notes/1.4 Animated GIFs.md",
     "Untitled.base",
-    "Concepts/Pointers.md",
-    "Concepts/Scope.md",
-    "Code Examples/Hello World Code.md",
-    "fmt Package.md",
-    "Main Function.md",
-    "Code Examples/Server with GIFs.md",
-    "Code Examples/Exercise 1.12 - Lissajous with URL Params.md",
     "Code Examples",
     "Concepts",
     "Book Notes"
