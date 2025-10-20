@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Package Initialization.md",
-                "mode": "preview",
+                "file": "Book Notes/3.5 Strings.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Package Initialization"
+              "title": "3.5 Strings"
             }
           }
         ],
@@ -186,8 +186,14 @@
   },
   "active": "d03018dfece93402",
   "lastOpenFiles": [
-    "Concepts/Type Conversions.md",
+    "Book Notes/3.4 Booleans.md",
+    "Book Notes/3.5 Strings.md",
+    "Book Notes/3.3 Complex Numbers.md",
+    "Book Notes/3.2 Floating-Point Numbers.md",
+    "Book Notes/3.1 Integers.md",
+    "Book Notes/3.0 Basic Data Types.md",
     "Concepts/Package Initialization.md",
+    "Concepts/Type Conversions.md",
     "Code Examples/Exercise 2.2 - Unit Conversions.md",
     "Concepts/Variable Shadowing.md",
     "Concepts/Lexical Blocks.md",
@@ -204,14 +210,8 @@
     "Book Notes/2.2 Declarations.md",
     "Book Notes/2.3 Variables.md",
     "Book Notes/2.1 Names.md",
-    "Book Notes/3.0 Basic Data Types.md",
     "Code Examples/Dup v3.md",
     "Code Examples/Dup v2.md",
-    "Code Examples/Dup v1.md",
-    "Book Notes/1.6 Fetching URLs Concurrently.md",
-    "Book Notes/1.7 Web Server.md",
-    "Concepts/For Loops.md",
-    "Book Notes/1.8 Loose Ends.md",
     "Untitled.base",
     "Code Examples",
     "Concepts",
